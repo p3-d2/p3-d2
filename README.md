@@ -27,12 +27,6 @@
  <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 </p>
 
-### Statistics
-<div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-frontend&show_icons=true&theme=dark" alt="Pedro-frontend"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-frontend&layout=compact&langs_count=4&theme=dark"/>
- </div>
-
 <!--
 **Pedro-frontEnd/Pedro-frontEnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
